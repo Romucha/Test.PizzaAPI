@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.PizzaAPI", "Test.PizzaAPI\Test.PizzaAPI.csproj", "{8DC5A6F2-01AA-4258-97AD-EBB13970A2C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.PizzaStorage", "Test.PizzaStorage\Test.PizzaStorage.csproj", "{23A9674A-D28C-40F5-8B3A-BD2E2DE6AACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DC5A6F2-01AA-4258-97AD-EBB13970A2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC5A6F2-01AA-4258-97AD-EBB13970A2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC5A6F2-01AA-4258-97AD-EBB13970A2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC5A6F2-01AA-4258-97AD-EBB13970A2C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A9674A-D28C-40F5-8B3A-BD2E2DE6AACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A9674A-D28C-40F5-8B3A-BD2E2DE6AACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A9674A-D28C-40F5-8B3A-BD2E2DE6AACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A9674A-D28C-40F5-8B3A-BD2E2DE6AACE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE63AADB-5ACA-4890-8DF4-0981415C80F7}
+	EndGlobalSection
+EndGlobal
